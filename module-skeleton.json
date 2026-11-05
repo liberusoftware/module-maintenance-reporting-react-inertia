@@ -1,0 +1,15 @@
+{
+  "repository": "module-maintenance-reporting-react-inertia",
+  "capabilityKey": "liberusoftware/module-maintenance-reporting",
+  "presentation": "laravel-inertia-react",
+  "package": "@liberusoftware/module-maintenance-reporting-react-inertia",
+  "foundation": "module-boilerplate-react-inertia",
+  "foundationCommit": "5a2d7f53327e9648efd68af033e1876ce1cf20f0",
+  "canonicalPlan": "projects/maintenance/nextjs/reporting.md",
+  "presentationPlan": "projects/maintenance/react/reporting.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "maintenance"
+  ]
+}
